@@ -6,12 +6,12 @@ namespace ConsoleCalculator
     {
         static void Main(string[] args)
         {
-            // Calculator calculator = new Calculator();
+            Calculator calculator = new Calculator();
 
-            // double resultAddition = calculator.Add(5, 3);
-            // Console.WriteLine("Addition result: " + resultAddition);
+            double resultAddition = calculator.Add(5, 3);
+            Console.WriteLine("Addition result: " + resultAddition);
 
-            // Console.ReadLine(); 
+            Console.ReadLine(); 
         }
     }
 }
