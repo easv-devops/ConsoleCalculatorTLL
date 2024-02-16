@@ -15,7 +15,7 @@ namespace CalculatorTests
 
 
             // Act
-            double result = calculator.Add(num1, num2);
+            double result = Calculator.Add(num1, num2);
 
             // Assert
             Assert.Equal(8, result);
@@ -30,7 +30,7 @@ namespace CalculatorTests
             double num2 = 4;
 
             // Act
-            double result = calculator.Subtract(num1, num2);
+            double result = Calculator.Subtract(num1, num2);
 
             // Assert
             Assert.Equal(6, result);
@@ -45,7 +45,7 @@ namespace CalculatorTests
             double num2 = 2;
 
             // Act
-            double result = calculator.Multiply(num1, num2);
+            double result = Calculator.Multiply(num1, num2);
 
             // Assert
             Assert.Equal(14, result);
@@ -60,7 +60,7 @@ namespace CalculatorTests
             double num2 = 3;
 
             // Act
-            double result = calculator.Divide(num1, num2);
+            double result = Calculator.Divide(num1, num2);
 
             // Assert
             Assert.Equal(5, result);
@@ -75,7 +75,7 @@ namespace CalculatorTests
             double num2 = 0;
 
             // Act & Assert
-            Assert.Throws<ArgumentException>(() => calculator.Divide(num1, num2));
+            Assert.Throws<ArgumentException>(() => Calculator.Divide(num1, num2));
         }
     }
 }
