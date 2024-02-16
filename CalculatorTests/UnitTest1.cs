@@ -13,6 +13,7 @@ namespace CalculatorTests
             double num1 = 5;
             double num2 = 3;
 
+
             // Act
             double result = calculator.Add(num1, num2);
 

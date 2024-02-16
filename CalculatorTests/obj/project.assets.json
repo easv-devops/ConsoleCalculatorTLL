@@ -5539,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TLLoe\\Projekter\\consoleCalculator\\CalculatorTests\\CalculatorTests.csproj",
+      "projectUniqueName": "C:\\Users\\TLLoe\\Projekter\\ConsoleCalculatorTLL\\CalculatorTests\\CalculatorTests.csproj",
       "projectName": "CalculatorTests",
-      "projectPath": "C:\\Users\\TLLoe\\Projekter\\consoleCalculator\\CalculatorTests\\CalculatorTests.csproj",
+      "projectPath": "C:\\Users\\TLLoe\\Projekter\\ConsoleCalculatorTLL\\CalculatorTests\\CalculatorTests.csproj",
       "packagesPath": "C:\\Users\\TLLoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TLLoe\\Projekter\\consoleCalculator\\CalculatorTests\\obj\\",
+      "outputPath": "C:\\Users\\TLLoe\\Projekter\\ConsoleCalculatorTLL\\CalculatorTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TLLoe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5558,8 +5558,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\TLLoe\\Projekter\\consoleCalculator\\ConsoleCalculator\\ConsoleCalculator.csproj": {
-              "projectPath": "C:\\Users\\TLLoe\\Projekter\\consoleCalculator\\ConsoleCalculator\\ConsoleCalculator.csproj"
+            "C:\\Users\\TLLoe\\Projekter\\ConsoleCalculatorTLL\\ConsoleCalculator\\ConsoleCalculator.csproj": {
+              "projectPath": "C:\\Users\\TLLoe\\Projekter\\ConsoleCalculatorTLL\\ConsoleCalculator\\ConsoleCalculator.csproj"
             }
           }
         }

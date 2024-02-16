@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TLLoe\\Projekter\\consoleCalculator\\ConsoleCalculator\\ConsoleCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\TLLoe\\Projekter\\ConsoleCalculatorTLL\\ConsoleCalculator\\ConsoleCalculator.csproj",
       "projectName": "ConsoleCalculator",
-      "projectPath": "C:\\Users\\TLLoe\\Projekter\\consoleCalculator\\ConsoleCalculator\\ConsoleCalculator.csproj",
+      "projectPath": "C:\\Users\\TLLoe\\Projekter\\ConsoleCalculatorTLL\\ConsoleCalculator\\ConsoleCalculator.csproj",
       "packagesPath": "C:\\Users\\TLLoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TLLoe\\Projekter\\consoleCalculator\\ConsoleCalculator\\obj\\",
+      "outputPath": "C:\\Users\\TLLoe\\Projekter\\ConsoleCalculatorTLL\\ConsoleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TLLoe\\AppData\\Roaming\\NuGet\\NuGet.Config"
